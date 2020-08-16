@@ -15,7 +15,6 @@ h1 {
 }
 .box{
   width: 90%;
-  height: 200px;
   border: 1px solid black;
   background-color: grey;
   margin-left: auto;
@@ -42,7 +41,7 @@ h1 {
 
 p {
   float: left;
-  padding: 2px 5% 5% 5%;
+  padding: 5px 10px;
 }
 
 /*DESKTOP*/
